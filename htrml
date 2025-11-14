@@ -1,1 +1,17 @@
-index.html
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+    <style>
+        body { font-family: Arial; max-width: 700px; margin: 40px auto; line-height: 1.6; }
+        h1 { color: #0078ff; }
+    </style>
+</head>
+<body>
+    <h1>Xin chào! Mình là [Noah]</h1>
+    <p>👋 Mình là lập trình viên / designer ...</p>
+    <p>Kỹ năng: HTML, CSS..</p>
+    <p>Liên hệ: Noah3@gmail.com</p>
+</body>
+</html>
